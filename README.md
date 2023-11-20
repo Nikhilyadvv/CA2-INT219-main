@@ -9,6 +9,12 @@ You can try the Music Player live : https://nikhilyadvv.github.io/Music-Player
 
 The index.html file can be run on any modern browser to run the music player.
 
+## Technologies used
+
+`HTML`
+`CSS`
+`JAVASCRIPT`
+
 ## Features
 
 - Interactive GUI
