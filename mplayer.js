@@ -23,34 +23,34 @@ let updateTimer;
 const music_list = [
 
     {
-        img : 'Excuses.jpg',
+        img : 'assets/Excuses.jpg',
         name : 'EXCUSES',
         artist : 'AP Dhillon, Gurinder Gill, Intense',
-        music : 'Excuses.mp3'
+        music : 'assets/Excuses.mp3'
     },
     {
-        img : 'desires.jpg',
+        img : 'assets/desires.jpg',
         name : 'DESIRES',
         artist : 'AP Dhillon, Gurinder Gill',
-        music : 'desires.mp3'
+        music : 'assets/desires.mp3'
     },
     {
-        img : 'same-beef.jpg',
+        img : 'assets/same-beef.jpg',
         name : 'SAME BEEF',
         artist : 'Bohemia, Sidhu Moose Wala',
-        music : 'Same Beef.mp3'
+        music : 'assets/Same Beef.mp3'
     },
     {
-        img : 'fate.jpeg',
+        img : 'assets/fate.jpeg',
         name : 'FATE',
         artist : 'AP Dhillon, Gurinder Gill',
-        music : 'Fate.mp3'
+        music : 'assets/Fate.mp3'
     },
     {
-        img : 'Kesariya.jpg',
+        img : 'assets/Kesariya.jpg',
         name : 'KESARIYA',
         artist : 'Pritam, Arijit Singh',
-        music : 'Kesariya.mp3'
+        music : 'assets/Kesariya.mp3'
     }
 ];
 
